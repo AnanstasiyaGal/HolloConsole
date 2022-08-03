@@ -1,0 +1,15 @@
+D:\Учеба\exampels11\example001_HelloConsol\bin\Debug\net6.0\example001_HelloConsol.exe
+D:\Учеба\exampels11\example001_HelloConsol\bin\Debug\net6.0\example001_HelloConsol.deps.json
+D:\Учеба\exampels11\example001_HelloConsol\bin\Debug\net6.0\example001_HelloConsol.runtimeconfig.json
+D:\Учеба\exampels11\example001_HelloConsol\bin\Debug\net6.0\example001_HelloConsol.dll
+D:\Учеба\exampels11\example001_HelloConsol\bin\Debug\net6.0\example001_HelloConsol.pdb
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.csproj.AssemblyReference.cache
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.AssemblyInfoInputs.cache
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.AssemblyInfo.cs
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.csproj.CoreCompileInputs.cache
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.dll
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\refint\example001_HelloConsol.dll
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.pdb
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\example001_HelloConsol.genruntimeconfig.cache
+D:\Учеба\exampels11\example001_HelloConsol\obj\Debug\net6.0\ref\example001_HelloConsol.dll
