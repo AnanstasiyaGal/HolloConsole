@@ -1,0 +1,15 @@
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.AssemblyInfo.cs
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\Учеба\exampels11\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.exe
+D:\Учеба\exampels11\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.deps.json
+D:\Учеба\exampels11\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.runtimeconfig.json
+D:\Учеба\exampels11\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.dll
+D:\Учеба\exampels11\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.pdb
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.dll
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\refint\example005_ConditionIfElse.dll
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.pdb
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.genruntimeconfig.cache
+D:\Учеба\exampels11\example005_ConditionIfElse\obj\Debug\net6.0\ref\example005_ConditionIfElse.dll
